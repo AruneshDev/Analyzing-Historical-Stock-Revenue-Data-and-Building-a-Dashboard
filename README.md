@@ -57,6 +57,9 @@ jupyter notebook Final_Assignment.ipynb
 📈 Key Insights
 
 🔹 Tesla's stock price shows exponential growth since 2019, correlated with revenue increases.
+
 🔹 GameStop stock surged in 2021, despite no significant revenue growth.
+
 🔹 Revenue growth does not always drive stock price movements—market sentiment plays a role.
+
 🔹 Tesla’s revenue has consistently increased, driven by electric vehicle adoption.
