@@ -47,8 +47,8 @@ This project analyzes **historical stock prices and revenue trends** of **Tesla 
 ## 🛠 **How to Run This Project**
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/your-username/tesla-gamestop-analysis.git
-cd tesla-gamestop-analysis
+git clone https://github.com/AruneshDev/Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard.git
+cd Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard
 ```
 2️⃣ Open the Jupyter Notebook
 ```bash
